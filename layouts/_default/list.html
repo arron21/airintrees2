@@ -1,0 +1,7 @@
+{{.Content}}
+{{ range .Pages }}
+<h2><a href="{{.URL}}">{{.Title}}</a>
+<small>{{.Date.Format "2006-01-02"}}</small>
+</h2>
+<p>{{.Description}}</p>
+{{ end }}
