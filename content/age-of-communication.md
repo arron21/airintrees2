@@ -1,6 +1,6 @@
 ---
 title: "We live in an Age of Communication"
-date: 2019-07 -07T15:07:20-07:00
+date: 2019-10-12T15:07:20-07:00
 draft: false
 ---
 
