@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/covid-19-corona-and-our-way-of-life.md
