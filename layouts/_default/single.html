@@ -1,8 +1,23 @@
-{{ if .Date }}
-<time class="post-date" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">
-  {{ .Date.Format "02 Jan 2006" }}
-</time>
-{{ end }}
+<html>
 
-{{ .Site.Params.postHeaderContent | safeHTML }}
-{{ .Content }}
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+
+<body>
+  <h1><a href="/">Air in Trees</a></h1>
+
+  <h2>{{ .LinkTitle }}</h2>
+  {{ if .Date }}
+  <time class="post-date" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">
+    Updated: {{ .Date.Format "02 Jan 2006" }}
+  </time>
+  {{ end }}
+
+  {{ .Site.Params.postHeaderContent | safeHTML }}
+  {{ .Content }}
+</body>
+
+</html>

@@ -1,1 +1,1 @@
-body{width:100%;max-width:60em;margin:auto;background-color:#fdfaed}
+@import "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap";:root{--ratio: $r}html{font-family:ibm plex sans,sans-serif}p{margin-bottom:var(--ratio)}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}a{color:#5d5637}body{margin:0}h1,h2,h3,h4,h5,h6{font-weight:900}table{border-collapse:collapse;border-spacing:0}th,td{text-align:left;vertical-align:top}img,iframe{border:0}body{width:100%;max-width:60em;margin:auto;background-color:#fdfaed}

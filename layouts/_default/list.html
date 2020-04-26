@@ -1,7 +1,18 @@
-{{.Content}}
-{{ range .Pages }}
-<h2><a href="{{.URL}}">{{.Title}}</a>
-<small>{{.Date.Format "2006-01-02"}}</small>
-</h2>
-<p>{{.Description}}</p>
-{{ end }}
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+
+<body>
+
+    {{.Content}}
+    {{ range .Pages }}
+    <h2><a href="{{.URL}}">{{.Title}}</a>
+        <small>{{.Date.Format "2006-01-02"}}</small>
+    </h2>
+    <p>{{.Description}}</p>
+    {{ end }}
+</body>
