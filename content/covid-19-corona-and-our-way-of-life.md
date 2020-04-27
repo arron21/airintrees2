@@ -19,7 +19,7 @@ There are only 2 ways we will approach anything resembling our former normalcy:
 
 1. A mandatory 100% quarantine for 3 weeks, and complete shutdown. In this model, only specific government officials would be authorized to deliver food/necessary goods to those who need them. After 3 weeks, we would then determine who is sick and who is not; the ill would put on house arrests, and we would continue to provide for them until they are well; this model is extremely difficult, and highly unlikely in the USA.
 
-2: Self-isolate until a vaccine is developed. This option is closer to what is currently happening in most countries; unfortunately there are people who are not self isolating, which has, and will continue to create more cases and deaths.
+2. Self-isolate until a vaccine is developed. This option is closer to what is currently happening in most countries; unfortunately there are people who are not self isolating, which has, and will continue to create more cases and deaths.
 
 The numbers do not lie and the number of cases world wide are going to continue to increase; if you go out, you are risking the life of your neighbor.
 
