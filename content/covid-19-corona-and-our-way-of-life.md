@@ -1,39 +1,38 @@
 +++
 date = 2020-04-26T07:00:00Z
-draft = true
 title = "Covid 19, Corona, and Our Way of Life"
 
 +++
-I should have written this back in February when news of Covid-19 was starting to become more serious.
+I should have written this back in February, when the COVID-19 crisis began to worsen. 
 
-I believe it is best if we start to accept that as a species:
+Regardless, as a species I believe it is in our best interest to accept the following realities:
 
-Our way of life is going to change drastically.
+our way of life is going to change drastically;
 
-Our government (USA) is not prepared to operate in this type of socio-economic culture.
+The United States government is not optimized or prepared to function in the socio-economic culture presented by a pandemic;
 
-It will take a least 1 year for things to even begin to "get back to normal".
+it will take a least one year for things to even begin to "go back to normal."
 
-We were told very clearly early on that the typical time-frame for developing a vaccine takes about 1 year. Unless there is some miracle and some corners cut in the development of the vaccine.
+We have been told very clearly that the typical time-frame for developing a vaccine takes about one year, unless there is some miracle, and/or some cut-corners in the development of a vaccine.
 
-There are only 2 ways we will approach any sort of previous normalcy.
+There are only 2 ways we will approach anything resembling our former normalcy:
 
-1: mandatory 100% quarantine for 3 weeks and complete shutdown. Only specific government officials are allows to deliver food/necessary goods to those who need them. After 3 weeks we determine who is sick and who is not. Then the sick are put on house arrests and we continue to provide for them until they are well.
+1. A mandatory 100% quarantine for 3 weeks, and complete shutdown. In this model, only specific government officials would be authorized to deliver food/necessary goods to those who need them. After 3 weeks, we would then determine who is sick and who is not; the ill would put on house arrests, and we would continue to provide for them until they are well; this model is extremely difficult, and highly unlikely in the USA.
 
-\#1 is extremely difficult and highly unlikely in the USA
+2: Self-isolate until a vaccine is developed. This option is closer to what is currently happening in most countries; unfortunately there are people who are not self isolating, which has, and will continue to create more cases and deaths.
 
-2: Self Isolate until a vaccine is developed. This is closer to what is currently happening, except that there are people who are not self isolating, which will just create more cases and deaths. 
+The numbers do not lie and the number of cases world wide are going to continue to increase; if you go out, you are risking the life of your neighbor.
 
-The numbers do not lie and the number of cases world wide are going to increase, if you go out, you are risking the life of your neighbor.
+In that light, the amount of protests and lack of respect for this virus is astounding; the USA response to it- 
 
-The amount of protests and lack of respect for this virus is incredible.
-
-The USA response to it is absolutely flabbergasting.
+absolutely flabbergasting.
 
 I hope everyone stays safe, stays inside, and respects the fight we still have ahead.
 
-You can't fight hand to hand with a virus, we have to play by it's rules. 
+The bottom-line is this: you can't fight hand to hand with a virus; we have to play by it's rules.
 
-Now is the time to demand the government help us... The People.
+Now is the time to demand the government help us... 
 
-Too long have we operated in such a specific mode as a country. Now that we have had such a drastic socio-economic kick in the ass, we are unable to bounce back due to the strict reliance on how our economy has operated for so long. We must demand that our government support its people during this time. We must adopt a new mode of economy and of life, at least until we are certain no more lives are at risk.
+We, the people.
+
+Too long have we operated in outdated modes as a country. Now with such a drastic socio-economic kick in the ass, we are unable to bounce back due to our economies strict reliance on archaic operations. We must demand that our government support its people during this time; we must adopt a new, optimized economy, and way of life; at least until we are certain no more lives are at risk.
