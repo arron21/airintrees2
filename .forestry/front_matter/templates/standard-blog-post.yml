@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/covid-19-a-stoic-approach.md
 - content/covid-19-corona-and-our-way-of-life.md
