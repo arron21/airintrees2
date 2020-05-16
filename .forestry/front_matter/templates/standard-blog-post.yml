@@ -8,6 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
 pages:
 - content/covid-19-a-stoic-approach.md
 - content/covid-19-corona-and-our-way-of-life.md
