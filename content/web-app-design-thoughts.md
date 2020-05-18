@@ -1,6 +1,5 @@
 +++
 date = 2020-05-17T07:00:00Z
-draft = true
 gallery = []
 title = "Web App Design, Thoughts."
 
