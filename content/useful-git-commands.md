@@ -1,6 +1,5 @@
 +++
 date = 2020-07-29T07:00:00Z
-draft = true
 gallery = []
 title = "Useful git Commands"
 
