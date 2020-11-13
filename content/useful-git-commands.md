@@ -8,7 +8,7 @@ title = "Useful git Commands"
 
 This saves your username and password for the project folder
 
-**git config credential.helper store**
+**git  fetch -p**
 
 this looks at all local branches on your computer, then compares it to the remote repository. if the branch no longer exists on the remote repository then you "prune" it. this is good for cleaning up "stale" branches
 
