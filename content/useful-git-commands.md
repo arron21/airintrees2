@@ -19,3 +19,11 @@ this shows your git urls that you are fetching and push to
 **git remote set-url origin https://myawesomerepository.git**
 
 this changes the git url that your fetch and push to
+
+**git remote show origin**
+
+shows the URL of the git origin where you pull/push files to
+
+**git remote rm testing**
+
+removes the remote branch "testing"
