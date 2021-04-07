@@ -1,5 +1,12 @@
 p {
     margin-bottom: var(--ratio);
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    font-family: Georgia;
+    color: rgba(41, 41, 41, 1);
+    margin: auto;
+    text-rendering: optimizeLegibility;
 }
 
 h1,
