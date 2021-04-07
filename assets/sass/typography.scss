@@ -7,6 +7,7 @@ p {
     color: rgba(41, 41, 41, 1);
     margin: auto;
     text-rendering: optimizeLegibility;
+    margin-bottom: 2em;
 }
 
 h1,
@@ -28,3 +29,6 @@ h6 {
 a {
     color: #5d5637;
 }
+ html {
+    font-family: 'Merriweather', serif;
+ }
