@@ -8,6 +8,14 @@ title = "Useful git Commands"
 
 This saves your username and password for the project folder
 
+**git config --local user.email "youremail@gmail.com"**
+
+This saves your email to the local project
+
+**git config --local user.name"youremail@gmail.com"**
+
+This saves your nameto the local project
+
 **git  fetch -p**
 
 this looks at all local branches on your computer, then compares it to the remote repository. if the branch no longer exists on the remote repository then you "prune" it. this is good for cleaning up "stale" branches
